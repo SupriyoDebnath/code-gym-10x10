@@ -19,5 +19,5 @@ Hi visitors, my name is Supriyo Debnath and I decided to start this self-develop
 
 ## Tech INDEX
 
-- [Ubuntu Virtual Machine](https://www.hostinger.com/in/vps-hosting)
 - [Kubernetes](https://kubernetes.io/)
+- [Ubuntu Virtual Machine](https://www.hostinger.com/in/vps-hosting)
