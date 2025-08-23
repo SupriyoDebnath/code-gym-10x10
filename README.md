@@ -15,4 +15,9 @@ Hi visitors, my name is Supriyo Debnath and I decided to start this self-develop
 - Server Monitoring Dashboard
 - Notification Feed
 - E-Commerce Order Processing Dashboard
-- CODE GYM INDEX
+- CODE GYM PLAYGROUND
+
+## Tech INDEX
+
+- [Ubuntu Virtual Machine](https://www.hostinger.com/in/vps-hosting)
+- [Kubernetes](https://kubernetes.io/)
