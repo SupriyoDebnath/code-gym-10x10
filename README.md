@@ -6,11 +6,11 @@ Hi visitors, my name is Supriyo Debnath and I decided to start this self-develop
 
 ## List of Projects
 
+- API Rate Limiting Portal
 - Chat Portal
 - Sensor Dashboard
 - Task Queue Dashboard
 - Stock Market Feed
-- API Rate Limiting Portal
 - Whiteboard Portal
 - Server Monitoring Dashboard
 - Notification Feed
@@ -19,5 +19,6 @@ Hi visitors, my name is Supriyo Debnath and I decided to start this self-develop
 
 ## Tech INDEX
 
+- [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/)
 - [Ubuntu Virtual Machine](https://www.hostinger.com/in/vps-hosting)
