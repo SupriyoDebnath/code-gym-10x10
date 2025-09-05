@@ -19,6 +19,8 @@ Hi visitors, my name is Supriyo Debnath and I decided to start this self-develop
 
 ## Tech INDEX
 
+- [Redis](https://redis.io/)
+- [PostgreSQL](https://www.postgresql.org/)
 - [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/)
 - [Ubuntu Virtual Machine](https://www.hostinger.com/in/vps-hosting)
